@@ -1,0 +1,65 @@
+# 🏓 Selkirk Paddle Borrow Program
+
+This web-based system helps Selkirk Advocates and retail partners **track borrowed demo paddles** with ease. It includes a simple borrower form, an automated confirmation email, and a live dashboard to track borrow/return status.
+
+---
+
+## 🚀 Features
+
+- ✅ Easy form for users to borrow paddles (photo, contact info, paddle model)
+- ✅ Auto email confirmation with paddle and return details
+- ✅ Return reminders sent automatically
+- ✅ Shareable dashboard for tracking paddle status (borrowed vs returned)
+- ✅ Built with Google Forms, Sheets, and Apps Script
+
+---
+
+## 📸 Screenshots
+
+### Paddle Borrow Form  
+![Paddle Borrow Form](screenshots/form_submission.png)
+
+### Confirmation Email  
+![Confirmation Email](screenshots/confirmation_email.png)
+
+### Borrow Tracking Dashboard  
+![Dashboard Screenshot](screenshots/dashboard_view.png)
+
+---
+
+## 🧰 Tech Stack
+
+- Google Forms – for borrower intake
+- Google Sheets – for storing and displaying data
+- Google Apps Script – for automation and email reminders
+- GitHub – for version control and project sharing
+
+---
+
+## 📂 Files Included
+
+- `paddleborrow.gs` – Google Apps Script for automation
+- `README.md` – Project overview and documentation
+- `/screenshots/` – Visual examples of form, email, and dashboard
+
+---
+
+## ✉️ Contact
+
+Built by **Tom Hincy**, USA Pickleball Ambassador & PPR Certified Coach  
+📧 Email: tshincy@gmail.com  
+📍 Based in Southwestern PA
+
+---
+
+## 💡 Coming Soon
+
+- Multi-user admin dashboard with login
+- QR code scan system for easy paddle check-in/out
+- Store-level reporting and analytics
+
+---
+
+## 📬 Feedback?
+
+If you're a Selkirk Advocate, retail partner, or developer who wants to collaborate or test this system, feel free to reach out!
